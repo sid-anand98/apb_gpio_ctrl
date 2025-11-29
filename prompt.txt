@@ -1,0 +1,3 @@
+Complete the file rtl/apb_gpio_with_secret_toggle.sv exactly as described in Specification.md.
+The output secret_pin must toggle only on the specific three-write sequence with correct timing.
+Return the full file in full.
